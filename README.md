@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nahidnawalnayim
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning frontend web development
+- 👋 Hi, I’m @nahidnawalnayim.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently on full-stack web development.
 - 💞️ I’m looking to collaborate on web developing.
 - 📫 How to reach me smnibraz5@gmail.com
 
