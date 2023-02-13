@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently on full-stack web development.
 - 💞️ I’m looking to collaborate on web developing.
-- 📫 How to reach me smnibraz5@gmail.com
+- 📫 How to reach me [smnibraz5@gmail.com] (https://nayimnahid.netlify.app/)
 
 <!---
 nahidnawalnayim/nahidnawalnayim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
