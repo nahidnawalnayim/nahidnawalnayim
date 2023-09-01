@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], a passionate Software Developer and a dedicated student pursuing a degree in Computer and Communication Engineering.
+👋 Hello there! I'm Nahid Nawal, a passionate Software Developer and a dedicated student pursuing a degree in Computer and Communication Engineering.
 
 👨‍💻 What I Do
 
@@ -8,23 +8,18 @@
 🛠 Tech Stack
 
 Programming Languages: Python, C++, Java
-Web Technologies: HTML, CSS, JavaScript, React
+Web Technologies: HTML, CSS, JavaScript, React, NodeJs, NextJs
 Database: SQL, MongoDB
-Communication Protocols: TCP/IP, Bluetooth, Zigbee
 🎓 Education
+I am currently enrolled in a Computer and Communication Engineering program, honing my technical skills and theoretical knowledge. I'm particularly interested in:
 
-Currently enrolled in a Computer and Communication Engineering program, honing my technical skills and theoretical knowledge. I'm particularly interested in:
-
-Distributed Systems
-Network Security
-Data Communication
 🌱 What I'm Learning
 
 I'm currently exploring:
 
 Machine Learning algorithms and their applications in communication technologies
 Kubernetes and Docker for scalable software solutions
-Cybersecurity best practices
+Mobile app development with Kotlin
 🤝 Let's Collaborate
 
 I'm always eager to collaborate on projects and research initiatives that intersect software development and communication technologies. Feel free to reach out!
